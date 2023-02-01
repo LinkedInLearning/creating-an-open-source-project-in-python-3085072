@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "os_in_python"
+name = "reminder"
 version = "0.1.0"
 description = "This is my 1st Python project"
 authors = ["Cheukting <cheukting.ho@gmail.com>"]
