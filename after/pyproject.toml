@@ -2,7 +2,7 @@
 name = "os_in_python"
 version = "0.1.0"
 description = "This is my 1st Python project"
-authors = ["Cheukting <cheukting.ho@gmail.com>"]
+authors = ["Your Name <your@email.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
